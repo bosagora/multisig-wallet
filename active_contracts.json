@@ -1,6 +1,9 @@
 {
   "ethereum_mainnet": {
-    "MultiSigWalletFactory": "0x8357620F006C072EeF28A2E0E4a6516056e5Cbe9"
+    "MultiSigWalletFactory": "0xAF937595B8c0a833DA90d4E125a8cAb27d986Ba1"
+  },
+  "ethereum_testnet": {
+    "MultiSigWalletFactory": "0x819e1e7e5779B24430125C529830B41Ed7F769d0"
   },
   "bosagora_mainnet": {
     "MultiSigWalletFactory": "0xCBf5BAB7ded9d824Cc52533aB88F5691a152eFeD"
