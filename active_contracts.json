@@ -12,7 +12,7 @@
     "MultiSigWalletFactory": "0xEA254bF59c2d4fa4549E26071F95443b96bEf968"
   },
   "bosagora_devnet": {
-    "MultiSigWalletFactory": "0x378f38c16c630cA59351728F4171C03c0Ddfa76c"
+    "MultiSigWalletFactory": "0xF120890C71B2B9fF4578088A398a2402Ae0d3616"
   },
   "acc_sidechain_mainnet": {
     "MultiSigWalletFactory": "0x378f38c16c630cA59351728F4171C03c0Ddfa76c"
